@@ -6,11 +6,11 @@
 
 @layer base {
   body {
-    @apply bg-dark text-slate-200 antialiased font-sans selection:bg-primary/30 selection:text-primary-hover min-h-screen;
+    @apply bg-dark text-slate-200 antialiased font-sans selection:bg-primary/30 selection:text-primary-hover min-h-screen overflow-x-hidden;
   }
   
   html {
-    @apply scroll-smooth;
+    @apply scroll-smooth overflow-x-hidden;
     color-scheme: dark;
   }
 }

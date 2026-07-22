@@ -12,7 +12,7 @@ const Education = () => {
 
 
   return (
-    <section id="education" className="py-24 bg-white dark:bg-slate-900/80 relative">
+    <section id="education" className="py-24 bg-white dark:bg-slate-900/80 relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
