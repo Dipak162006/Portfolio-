@@ -164,6 +164,18 @@ export const portfolioData = {
         "Integrated MySQL databases and built REST APIs with secure data handling.",
         "Collaborated with senior developers on systematic debugging and UI/UX testing."
       ]
+    },
+    {
+      id: 3,
+      company: "CodeVedX",
+      position: "Web Development Intern",
+      duration: " 6 weeks ",
+      description: [
+        "Engineered multiple production-grade web applications, including a high-performance React SPA portfolio and an advanced interactive calculator.",
+        "Implemented modern frontend architectures using React 18, Vite, Tailwind CSS, and Framer Motion for responsive, dark-mode-first UIs.",
+        "Applied industry-standard software engineering practices including component modularity, state management, and Git version control.",
+        "Delivered 100% original code alongside comprehensive GitHub documentation and live Vercel deployments."
+      ]
     }
   ],
   education: {
