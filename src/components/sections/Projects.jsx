@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ExternalLink } from 'lucide-react';
 import { portfolioData } from '../../data/portfolioData';
 import GlowCard from '../ui/GlowCard';
 import SectionHeading from '../ui/SectionHeading';
@@ -56,15 +55,6 @@ const Projects = () => {
                     aria-label={`Github repo for ${project.title}`}
                   >
                     <GithubIcon className="w-6 h-6" />
-                  </a>
-                  <a 
-                    href={project.liveUrl} 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-slate-400 hover:text-primary transition-colors"
-                    aria-label={`Live demo for ${project.title}`}
-                  >
-                    <ExternalLink className="w-6 h-6" />
                   </a>
                 </div>
               </div>
