@@ -58,7 +58,7 @@ const Hero = () => {
           isViscous={true}
           viscous={15}
           colors={["#0f172a", "#1e293b", "#06b6d4"]}
-          autoDemo
+          autoDemo={false}
           autoSpeed={0.8}
           autoIntensity={5.0}
           isBounce={true}
