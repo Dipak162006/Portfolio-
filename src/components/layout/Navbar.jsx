@@ -43,7 +43,7 @@ const Navbar = () => {
                 Dipak<span className="text-cyan-400 group-hover:text-emerald-400 transition-colors">Odhavani</span>
               </span>
               <span className="text-[9px] sm:text-[10px] font-mono tracking-[0.2em] uppercase text-slate-400 group-hover:text-slate-300 transition-colors -mt-0.5">
-                Full-Stack &middot; AI
+                MERN Stack & AI
               </span>
             </div>
           </a>
