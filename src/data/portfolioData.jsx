@@ -191,49 +191,64 @@ export const portfolioData = {
       title: "AI Agent Making Competition",
       issuer: "AzzipTech",
       year: "2026",
-      highlight: true
+      highlight: true,
+      imageUrl: "/certificates/ai-agent-cert.jpeg"
     },
     {
       id: 2,
       title: "Green Skills & Artificial Intelligence",
       issuer: "Edunet Foundation",
       year: "2025/2026",
-      highlight: true
+      highlight: true,
+      imageUrl: "/certificates/edunet-cert.jpg"
     },
     {
       id: 3,
       title: "TechManjari 2026",
       issuer: "Participant / Competitor",
       year: "2026",
-      highlight: false
+      highlight: false,
+      imageUrl: "/certificates/Techmanjari_cert.jpeg"
     },
     {
       id: 4,
       title: "TechNova Hackathon 2025",
       issuer: "Participant",
       year: "2025",
-      highlight: false
+      highlight: false,
+      imageUrl: "/certificates/Technova_cert.jpeg"
     },
     {
       id: 5,
       title: "Code2Impact",
       issuer: "Participant",
       year: "2025",
-      highlight: false
+      highlight: false,
+      imageUrl: "/certificates/CodeToImpact_cert.jpeg"
     },
     {
       id: 6,
       title: "InnoApp",
       issuer: "Participant",
       year: "2025",
-      highlight: false
+      highlight: false,
+      imageUrl: "/certificates/InnoApp Event.jpeg"
     },
     {
       id: 7,
       title: "Pahel 1.0",
       issuer: "Participant",
       year: "2025",
-      highlight: false
+      highlight: false,
+      imageUrl: "/certificates/Pahel-1.0_cert.jpeg"
+    },
+    {
+      id: 8,
+      title: "Node.js Offline Workshop",
+      issuer: "Gyanmanjari Innovative University",
+      year: "2024",
+      highlight: false,
+      imageUrl: "/certificates/Node.js Workshop.jpeg"
     }
   ]
 };
