@@ -20,7 +20,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Dipak Odhavani",
     title: "MERN Stack | Web Developer ",
-    bio: "Final-year B.Tech Information Technology student passionate about building modern full-stack web applications and AI-powered solutions. Experienced in React.js, Node.js, PHP, Python, Flask, SQL databases, and LLM integration through real-world projects. Seeking opportunities to contribute, learn, and grow as a software developer.",
+    bio: "Advanced B.Tech IT student specializing in full-stack web development (MERN, PHP) and AI/ML integrations. Passionate about engineering scalable, high-performance web applications that solve real-world problems.",
     resumeUrl: "/Dipak_Odhavani_Resume.pdf",
     resumeFileName: "Dipak_Odhavani_Resume.pdf",
     contact: {

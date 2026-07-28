@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { UserCheck, Cpu, Database, Award } from 'lucide-react';
+import { UserCheck, Cpu, Database, Award, Briefcase } from 'lucide-react';
 import { portfolioData } from '../../data/portfolioData';
 
 const About = () => {
@@ -27,9 +27,9 @@ const About = () => {
     },
     {
       id: 4,
-      title: "Internship",
-      desc: "CodeVedX 2026",
-      icon: <Award className="w-6 h-6 text-accent" />
+      title: "Experience",
+      desc: "3+ Internships",
+      icon: <Briefcase className="w-6 h-6 text-accent" />
     }
   ];
 

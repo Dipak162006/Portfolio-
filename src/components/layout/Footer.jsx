@@ -85,8 +85,8 @@ const Footer = () => {
         
 
         {/* Copyright */}
-        <div className="text-slate-500 text-sm">
-          &copy; 2026 Dipak Odhavani. All rights reserved.
+        <div className="text-slate-500 text-sm text-center">
+          &copy; {new Date().getFullYear()} Dipak Odhavani. Engineered with React & Tailwind.
         </div>
         
       </div>
